@@ -30,7 +30,7 @@
     "vitest": "^5.0.0",
     "werift": "^0.24.1"
   },
-  "mcpName": "io.github.pooriaarab/vibenetwork",
+  "mcpName": "io.github.itsryanarmani/vibenetwork",
   "keywords": [
     "peer-to-peer",
     "social-network",
